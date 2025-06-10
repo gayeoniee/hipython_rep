@@ -123,9 +123,9 @@ python_basics
 ---
 
 ## 🤝 Contact & Feedback
-📧 Email: [gayoniee16@gmail.com]
-💼 GitHub: [https://github.com/gayeoniee]
-📝 Blog: [https://velog.io/@feel_so_fine/posts]
+📧 Email: [gayoniee16@gmail.com]   
+💼 GitHub: [https://github.com/gayeoniee]   
+📝 Blog: [https://velog.io/@feel_so_fine/posts]   
 
 개선사항 제안이나 질문은 언제든지 mail을 통해 주세요. 🙏  
 더 나은 학습자료로 발전시키겠습니다!
