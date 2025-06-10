@@ -84,7 +84,7 @@
 
 ## 📁 Repository 구조
 
-python_basics
+python_basics   
 ┣ 📓 1.variable_data_type.ipynb   
 ┣ 📓 2.복합 자료형.ipynb   
 ┣ 📓 3.조건문.ipynb   
