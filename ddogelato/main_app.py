@@ -34,7 +34,7 @@ while True:
     orders = []
 
     while True:
-        order_num = select_menu(store_name, menu_list, flavor_list, point_list, all_orders)
+        order_num = select_menu(store_name, menu_list)
         if order_num is None:
             continue
         selected_menu = menu_list[order_num]

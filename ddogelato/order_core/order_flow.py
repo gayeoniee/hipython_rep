@@ -1,4 +1,4 @@
-def select_menu(store_name, menu_list, flavor_list, point_list, all_orders):
+def select_menu(store_name, menu_list):
     """
     메뉴를 선택하는 함수.
     선택된 메뉴 인덱스를 반환.
