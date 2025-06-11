@@ -34,7 +34,6 @@
 - 리스트 버전 / 딕셔너리 버전의 구조적 차이를 비교 학습
 - 팀원과 함께 역할 분담 및 코드 리뷰 진행
 
-`
 ddogelato/   
 ┣ main_app.py   
 ┣order_core/   
@@ -43,7 +42,8 @@ ddogelato/
 ┗ utils/   
     ┣ __init__.py   
     ┗ customer_utils.py # 출력 및 상태 관리 (show_orders, canceled, check_out, member_ship)
-`
+
+<pre><code>```plaintext ddogelato/ ┣ main_app.py ┣ order_core/ ┃ ┣ __init__.py ┃ ┗ order_flow.py # 주문 흐름 (select_menu, select_flavors, cart, after_cart_menu) ┗ utils/ ┣ __init__.py ┗ customer_utils.py # 출력 및 상태 관리 (show_orders, canceled, check_out, member_ship) ``` </code></pre>
 ---
 
 ## 목적 및 방향
