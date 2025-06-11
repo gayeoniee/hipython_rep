@@ -44,14 +44,16 @@ ddogelato/
     ┗ customer_utils.py # 출력 및 상태 관리 (show_orders, canceled, check_out, member_ship)
 
 <pre><code>
-    ```plaintext ddogelato/ 
-                 ┣ main_app.py 
-                 ┣ order_core/ 
-                 ┃    ┣ __init__.py 
-                 ┃    ┗ order_flow.py # 주문 흐름 (select_menu, select_flavors, cart, after_cart_menu) 
-                 ┗ utils/ 
-                      ┣ __init__.py 
-                      ┗ customer_utils.py # 출력 및 상태 관리 (show_orders, canceled, check_out, member_ship) ``` 
+    ```
+    ddogelato/ 
+    ┣ main_app.py 
+    ┣ order_core/ 
+    ┃    ┣ __init__.py 
+    ┃    ┗ order_flow.py # 주문 흐름 (select_menu, select_flavors, cart, after_cart_menu) 
+    ┗ utils/ 
+         ┣ __init__.py 
+         ┗ customer_utils.py # 출력 및 상태 관리 (show_orders, canceled, check_out, member_ship) 
+    ``` 
 </code></pre>
 ---
 
